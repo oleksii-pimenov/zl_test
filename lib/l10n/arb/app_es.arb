@@ -1,7 +1,11 @@
 {
     "@@locale": "es",
-    "counterAppBarTitle": "Contador",
-    "@counterAppBarTitle": {
-        "description": "Texto mostrado en la AppBar de la página del contador"
+    "welcomeAppBarTitle": "Bienvenido",
+    "@welcomeAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página de bienvenida"
+    },
+    "welcomeMessage": "¡Bienvenido a tu nueva aplicación Flutter!",
+    "@welcomeMessage": {
+        "description": "Mensaje de saludo mostrado en el cuerpo de la página de bienvenida"
     }
 }

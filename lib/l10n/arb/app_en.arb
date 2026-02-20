@@ -1,7 +1,11 @@
 {
     "@@locale": "en",
-    "counterAppBarTitle": "Counter",
-    "@counterAppBarTitle": {
-        "description": "Text shown in the AppBar of the Counter Page"
+    "welcomeAppBarTitle": "Welcome",
+    "@welcomeAppBarTitle": {
+        "description": "Text shown in the AppBar of the Welcome Page"
+    },
+    "welcomeMessage": "Welcome to your new Flutter app!",
+    "@welcomeMessage": {
+        "description": "Greeting message shown in the body of the Welcome Page"
     }
 }
